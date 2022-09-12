@@ -1,0 +1,28 @@
+.header {
+   color: blue;
+}
+.title {
+   color: red;
+}
+.text, .technologies-list{
+   color: aquamarine;
+}
+.list {
+   color: blueviolet;
+}
+
+.big-program {
+   color: aqua;
+}
+.text-big {
+   color: brown;
+}
+.color {
+   color: coral;
+}
+.work {
+   color: purple;
+}
+.top {
+   color: black;
+}
